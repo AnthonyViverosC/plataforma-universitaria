@@ -171,7 +171,7 @@ Actualmente el proyecto incluye:
 
 ## Autor
 
-Proyecto desarrollado como demo academica de plataforma universitaria.
+Anthony Viveros y 3 más
 
 ## Licencia
 
